@@ -126,5 +126,5 @@ A DELETE request sent to http://localhost:3001/api/id deletes the entry from the
 
 #### **Accessing the API**
 
-Video demonstration at [Google Drive](https://drive.google.com/drive/folders/1WPtrEO1JeMeknNhpuNRsf7SndHTUCeuy)
+Video demonstration at [Google Drive](https://drive.google.com/file/d/1nDWgw0mdryT5jyj1TbNH-d5LDIOugJ-b/view)
 
